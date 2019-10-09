@@ -1,0 +1,4 @@
+RPi.GPIO
+adafruit-circuitpython-bme280
+adafruit_bme280
+influxdb
